@@ -2,4 +2,4 @@
 This is a demo for git and gitub
 
 # Teacher
-xyz
+xyz.
